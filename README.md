@@ -12,7 +12,7 @@ This project performs an end-to-end analysis of an e-commerce dataset using MySQ
 
 ---
 ## Dataset
-Raw datasets not included due to GitHub size limits.
+- Raw datasets not included due to GitHub size limits.
 ---
 
 ## 📊 Analysis Performed
